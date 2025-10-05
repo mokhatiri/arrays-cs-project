@@ -2,8 +2,8 @@
 
 ## Project description 
 
-This project contains a couple of exercises 
+This project contains a couple of exercises
 
-## Student 
+## Student
 
-- First name, Second name
+- Mohammed, KHATIRI
